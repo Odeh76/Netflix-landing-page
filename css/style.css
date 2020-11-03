@@ -142,6 +142,17 @@ img {
   border-bottom: var(--primary-color) 4px solid;
 }
 
+#tab-2 {
+  border-bottom: var(--primary-color) 4px solid;
+}
+#tab-3 {
+  border-bottom: var(--primary-color) 4px solid;
+}
+#tab-1 {
+  border-bottom: var(--primary-color) 4px solid;
+}
+
+
 /* Tab content */
 .tab-content {
   padding: 3rem 0;
